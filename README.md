@@ -1,2 +1,0 @@
-# CPU-Scheduling
-Priority Scheduling.
